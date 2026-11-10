@@ -8,6 +8,9 @@ dist-ssr/
 test-results/
 src-tauri/target/
 src-tauri/gen/
+artifacts/
+*.apk
+*.idsig
 *.local
 
 # 编辑器 / 系统
